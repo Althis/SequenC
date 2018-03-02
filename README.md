@@ -10,9 +10,12 @@ Different from most other games I made in my life, this one was designed in a co
 * A. It had to have a simple rule set
 * B. It had to be minimalist(due to the aforementioned constraints)
 * C. It had to be fun(duh!)
+
 It was a very interesting experience, with each round of paper prototyping and playtesting severely changing the direction of the project. At one point the game was a strange Blockout game with tetriminos, at another it was a colorcoded version of peggle, and so on.
 In the end I decided to stick with the current ruleset because it not only was one of the most favored by the testers, but it was also the most favored by myself.(And hey, my opinion counts too!)
+
 Sadly, after days of dealing with android studio to get even a passable version out, I ended up feeling really burnout with the project. Developing for pure android is like going through a purgatory of bugs; you wait in line for way too long just to get a slap in the face and sent back to the end of the line.
+
 In time I hope I can find the heart in me to make another version of this game in Unity, with proper animations and sound effects. It might be tiny, but this fella deserves it.
 
 # Rules
